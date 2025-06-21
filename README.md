@@ -14,8 +14,9 @@
 ## 🛠️ Технологии и инструменты
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=flat" alt="C++">
-  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=flat" alt="C#">
-  <img src="https://img.shields.io/badge/DaVinci_Resolve-000000?logo=blackmagicdesign&logoColor=white&style=flat" alt="DaVinci Resolve">
+  <img src="https://img.shields.io/badge/C%23-239120?logo=sharp&logoColor=white&style=flat" alt="C#">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white&style=flat" alt="Android Studio">
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-000000?logo=davinciresolve" alt="DaVinci Resolve">
   <img src="https://img.shields.io/badge/FL_Studio-000000?logo=flstudio&logoColor=white&style=flat" alt="FL Studio">
 </p>
 
