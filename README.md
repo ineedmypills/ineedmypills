@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=flat" alt="C++">
   <img src="https://img.shields.io/badge/C%23-239120?logo=sharp&logoColor=white&style=flat" alt="C#">
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white&style=flat" alt="Android Studio">
+    <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=flat" alt="Unity">
+  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?logo=unreal-engine&logoColor=white&style=flat" alt="Unreal Engine">
   <img src="https://img.shields.io/badge/DaVinci_Resolve-000000?logo=davinciresolve" alt="DaVinci Resolve">
   <img src="https://img.shields.io/badge/FL_Studio-000000?logo=flstudio&logoColor=white&style=flat" alt="FL Studio">
 </p>
