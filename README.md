@@ -6,5 +6,5 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ineedmypills&layout=compact&theme=radical&title_color=ff69b4&text_color=ffffff&bg_color=000000)](https://github.com/ineedmypills) 
 
- ### 🌐 >>>[My Website](https://ineedmypills.github.io)<<<
+ ### 🌐 [My Website](https://ineedmypills.github.io)
  
